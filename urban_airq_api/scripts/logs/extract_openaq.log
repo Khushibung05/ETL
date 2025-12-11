@@ -1,0 +1,48 @@
+2025-12-11T11:23:37.574498 Starting OpenAQ extraction for 5 cities.
+2025-12-11T11:23:37.576711 Requesting OpenAQ for city='Delhi' (attempt 1/3)
+2025-12-11T11:23:37.906987 ⚠️ Request failed for city='Delhi' on attempt 1: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11T11:23:37.909302 ⏳ Retrying city='Delhi' in 1.0s ...
+2025-12-11T11:23:38.911852 Requesting OpenAQ for city='Delhi' (attempt 2/3)
+2025-12-11T11:23:39.302368 ⚠️ Request failed for city='Delhi' on attempt 2: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11T11:23:39.305606 ⏳ Retrying city='Delhi' in 2.0s ...
+2025-12-11T11:23:41.307433 Requesting OpenAQ for city='Delhi' (attempt 3/3)
+2025-12-11T11:23:41.609411 ⚠️ Request failed for city='Delhi' on attempt 3: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11T11:23:41.611967 ❌ Failed to fetch/save for city='Delhi': Failed to fetch OpenAQ data for city='Delhi' after 3 attempts: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11T11:23:41.614445 Requesting OpenAQ for city='Bengaluru' (attempt 1/3)
+2025-12-11T11:23:41.730140 ⚠️ Request failed for city='Bengaluru' on attempt 1: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11T11:23:41.731926 ⏳ Retrying city='Bengaluru' in 1.0s ...
+2025-12-11T11:23:42.733757 Requesting OpenAQ for city='Bengaluru' (attempt 2/3)
+2025-12-11T11:23:43.303282 ⚠️ Request failed for city='Bengaluru' on attempt 2: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11T11:23:43.305010 ⏳ Retrying city='Bengaluru' in 2.0s ...
+2025-12-11T11:23:45.306682 Requesting OpenAQ for city='Bengaluru' (attempt 3/3)
+2025-12-11T11:23:46.567333 ⚠️ Request failed for city='Bengaluru' on attempt 3: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11T11:23:46.570974 ❌ Failed to fetch/save for city='Bengaluru': Failed to fetch OpenAQ data for city='Bengaluru' after 3 attempts: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11T11:23:46.573754 Requesting OpenAQ for city='Hyderabad' (attempt 1/3)
+2025-12-11T11:23:47.311768 ⚠️ Request failed for city='Hyderabad' on attempt 1: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11T11:23:47.313225 ⏳ Retrying city='Hyderabad' in 1.0s ...
+2025-12-11T11:23:48.314429 Requesting OpenAQ for city='Hyderabad' (attempt 2/3)
+2025-12-11T11:23:48.585264 ⚠️ Request failed for city='Hyderabad' on attempt 2: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11T11:23:48.585870 ⏳ Retrying city='Hyderabad' in 2.0s ...
+2025-12-11T11:23:50.586877 Requesting OpenAQ for city='Hyderabad' (attempt 3/3)
+2025-12-11T11:23:51.190455 ⚠️ Request failed for city='Hyderabad' on attempt 3: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11T11:23:51.192011 ❌ Failed to fetch/save for city='Hyderabad': Failed to fetch OpenAQ data for city='Hyderabad' after 3 attempts: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11T11:23:51.193328 Requesting OpenAQ for city='Mumbai' (attempt 1/3)
+2025-12-11T11:23:51.355766 ⚠️ Request failed for city='Mumbai' on attempt 1: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11T11:23:51.357265 ⏳ Retrying city='Mumbai' in 1.0s ...
+2025-12-11T11:23:52.359309 Requesting OpenAQ for city='Mumbai' (attempt 2/3)
+2025-12-11T11:23:52.489625 ⚠️ Request failed for city='Mumbai' on attempt 2: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11T11:23:52.490559 ⏳ Retrying city='Mumbai' in 2.0s ...
+2025-12-11T11:23:54.492212 Requesting OpenAQ for city='Mumbai' (attempt 3/3)
+2025-12-11T11:23:54.849056 ⚠️ Request failed for city='Mumbai' on attempt 3: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11T11:23:54.850041 ❌ Failed to fetch/save for city='Mumbai': Failed to fetch OpenAQ data for city='Mumbai' after 3 attempts: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11T11:23:54.850775 Requesting OpenAQ for city='Kolkata' (attempt 1/3)
+2025-12-11T11:23:55.228927 ⚠️ Request failed for city='Kolkata' on attempt 1: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11T11:23:55.231266 ⏳ Retrying city='Kolkata' in 1.0s ...
+2025-12-11T11:23:56.233896 Requesting OpenAQ for city='Kolkata' (attempt 2/3)
+2025-12-11T11:23:56.812542 ⚠️ Request failed for city='Kolkata' on attempt 2: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11T11:23:56.814217 ⏳ Retrying city='Kolkata' in 2.0s ...
+2025-12-11T11:23:58.816165 Requesting OpenAQ for city='Kolkata' (attempt 3/3)
+2025-12-11T11:23:59.754359 ⚠️ Request failed for city='Kolkata' on attempt 3: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11T11:23:59.758525 ❌ Failed to fetch/save for city='Kolkata': Failed to fetch OpenAQ data for city='Kolkata' after 3 attempts: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11T11:23:59.760900 Extraction complete. 0 files saved, 5 failures.
+2025-12-11T11:23:59.763669 No raw files were saved. Check logs for errors.
