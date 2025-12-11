@@ -1,0 +1,11 @@
+metric,value
+city_highest_avg_pm2_5,delhi
+highest_avg_pm2_5_value,153.806
+city_highest_avg_severity,delhi
+highest_avg_severity_value,6025.343
+pct_high_risk,100.0
+pct_moderate_risk,0.0
+pct_low_risk,0.0
+pct_unknown,0.0
+hour_worst_avg_pm2_5,2
+worst_hour_avg_pm2_5_value,105.667
